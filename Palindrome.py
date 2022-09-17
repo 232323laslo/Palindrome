@@ -14,7 +14,7 @@ print(is_palindrome(txt))
 
 
 
-# The is_palindrome(text) function, which takes the string text as an argument and returns True if the specified text is a palindrome and False otherwise.
+# The is_palindrome(text) function takes the string text as an argument and returns True if the specified text is a palindrome and False otherwise.
 
 # True: 
 # ΝΙΨΟΝ ΑΝΟΜΗΜΑΤΑ ΜΗ ΜΟΝΑΝ ΟΨΙΝ
